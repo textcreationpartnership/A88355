@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the princes, dukes, earls, lords, knights, generals, maior generalls, &amp;c. and colonells, of the Scots Kings party slaine and taken prisoners Duke Hamilton: Lieu. Gen. Leshly. E. Derby beheaded. Lieu G. Middleton. Maj. Gen. White. Maj G. Montgomery. Maj. G Roe Oneal. Maj. Gen. Graves. Maj. Gen. Maffey Bishop of Clogher Gen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88355</idno>
+            <idno type="STC">Wing L2494</idno>
+            <idno type="STC">Thomason 669.f.16[29]</idno>
+            <idno type="STC">ESTC R211398</idno>
+            <idno type="EEBO-CITATION">99870127</idno>
+            <idno type="PROQUEST">99870127</idno>
+            <idno type="VID">163185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163185)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the princes, dukes, earls, lords, knights, generals, maior generalls, &amp;c. and colonells, of the Scots Kings party slaine and taken prisoners Duke Hamilton: Lieu. Gen. Leshly. E. Derby beheaded. Lieu G. Middleton. Maj. Gen. White. Maj G. Montgomery. Maj. G Roe Oneal. Maj. Gen. Graves. Maj. Gen. Maffey Bishop of Clogher Gen.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (ports.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652 [i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason received his copy in October 1651.</note>
+                  <note>Annotation on Thomason copy: "October".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Royalists --  Great Britain --  Early works to 1800.</term>
+               <term>Prisoners of war --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163185:1" rendition="simple:additions"/>
+            <head>A Liſt of the Princes, Dukes, Earls, Lords, Knights, Generals, Maior
+Generalls, &amp;c. and Colonells, of the Scots Kings party ſlaine and taken Priſoners,
+<figure>
+                  <p>Duke Hamilton: Lieu. Gen. Leſhly. E. Derby beheaded. Lieu. G. Middleton. Maj. Gen. White. Maj. G. Montgomery. Maj. G Roe Oneal. Maj. Gen. Graves. Maj. Gen. Maſſey Biſhop of Clogher Gen.</p>
+               </figure>
+            </head>
+            <div type="proclamation">
+               <opener>
+                  <signed>By his Majeſty DEATH the Hieroglyphix.</signed>
+               </opener>
+               <head>A
+PROCLAMATION:</head>
+               <p>
+                  <seg rend="decorInit">W</seg>HEREAS the Crown and Scepter of
+<hi>England, Scotland,</hi> and <hi>Ireland</hi> have
+ſo often been taken from me, not<g ref="char:EOLhyphen"/>withſtanding
+all my Re-inthroniza<g ref="char:EOLhyphen"/>tions,
+and I have been ſtill laid by,
+yet now my Victorious Sword hath
+placed me in Tryumph, where I ſit clothed with the
+Royall Robes, and weare the Crown without diſtur<g ref="char:EOLhyphen"/>bance,
+where Wormes are my Companions, and
+the Bones of all the dead my Subjects.</p>
+               <p>If therefore any of the Generation of <hi>CHARLES
+ST<g ref="char:V">Ʋ</g>ART,</hi> or other <hi>Engliſh, Iriſh,</hi> or <hi>Scots</hi> whatſoe<g ref="char:EOLhyphen"/>ver,
+preſume to joſle me, or be my Competitor, he
+ſhall ſoon be my Captive; If the firſt ſtep be in the
+Throne the ſecond ſhall be in the Grave; I have long
+given warning, but wilbe at Courteſie no longer; And
+now I have begun to ſet ſo good footing on this part of
+the Earthen Globe, that I ſhal attempt to Conquer all the
+Emperours, Kings and Monarches in the World.</p>
+               <closer>
+                  <dateline>Given at the Rout at <hi>Worceſter,</hi>
+                     <date>the remarkable third day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi>
+1651.</date> before my Regall
+Picture.</dateline>
+                  <signed>DEATH.</signed>
+               </closer>
+            </div>
+            <div type="illustration">
+               <p>
+                  <figure>
+                     <p>THE WOEFVLL MIRROVR of MONARCHY</p>
+                  </figure>
+               </p>
+            </div>
+            <div type="commentary">
+               <head>
+                  <bibl>REVELATION 13. 18.</bibl>
+               </head>
+               <p>HEre is wiſdome, Let him that hath underſtand<g ref="char:EOLhyphen"/>ing
+count the number of the Beaſt, for it is the
+number of a Man, and his number is ſix hundred three<g ref="char:EOLhyphen"/>ſcore
+and ſix.</p>
+               <p>
+                  <hi>Let him that hath but ſo much Wiſdome as by A<g ref="char:EOLhyphen"/>rithmaticke
+to adde ſo ſmall a Summe, count,
+and here hee ſhall finde it (punctuall) to an
+<g ref="char:V">Ʋ</g>nite.</hi>
+               </p>
+               <p>1 It muſt be ſubſtracted out of the Number which
+is comprehended in a Man, and that as hee is the
+Beaſt.</p>
+               <p>2 This Number muſt amount to the juſt Summe
+of 666.</p>
+               <p>3 The <hi>Scots</hi> King comming into <hi>England</hi> with his
+<hi>Iriſh Papiſts,</hi> and <hi>Presbiterian Kirke,</hi> upon the account
+of the <hi>Nationall League</hi> and <hi>Covenant,</hi> And by them
+Proclaimed King of <hi>Brittaine;</hi> Exactly beareth this
+number of the Beaſt.</p>
+               <list>
+                  <item>the brIttIſh King.—003</item>
+                  <item>hIs IrIſh papIſts—004</item>
+                  <item>natIonaLL LeagVe,—156</item>
+                  <item>anD—500</item>
+                  <item>presbIterIan kIrke.—003</item>
+                  <item>666</item>
+               </list>
+            </div>
+            <div type="list">
+               <head>A Liſt of the Family from which
+CHARLES the ſecond King of
+Scotland deſcended, that ſat in
+the fatall Throne of Scotland,
+and came to untimely ends.</head>
+               <list>
+                  <item>
+                     <seg rend="decorInit">T</seg>He late King <hi>Charles</hi> (his own father) be<g ref="char:EOLhyphen"/>headed
+at White-hall gate.</item>
+                  <item>King <hi>James</hi> (his Grandfather) poiſoned.</item>
+                  <item>Queen <hi>Mary</hi> before him beheaded at
+<hi>Foddring by</hi> Caſtle.</item>
+                  <item>King <hi>James</hi> the fifth murdered.</item>
+                  <item>King <hi>James</hi> the fourth ſlain at <hi>Denfield.</hi>
+                  </item>
+                  <item>King <hi>James</hi> the third ſlain at <hi>Baneksborn.</hi>
+                  </item>
+                  <item>King <hi>James</hi> the ſecond at <hi>R<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xborough.</hi>
+                  </item>
+                  <item>King <hi>James</hi> the firſt put to death by his Subjects.</item>
+                  <item>King <hi>Alexander</hi> the third killed with a fal from his horſe</item>
+                  <item>King <hi>Donald</hi> the ſeventh twice depoſed, and at laſt caſt
+into Priſon, and his eies put out.</item>
+                  <item>King <hi>Duncan</hi> the ſecond ſlain.</item>
+                  <item>King <hi>Malcolme</hi> the third ſlain at <hi>Alnwick.</hi>
+                  </item>
+                  <item>King <hi>Mackheth</hi> ſlain.</item>
+                  <item>King <hi>Duncan</hi> the firſt ſlain.</item>
+                  <item>King <hi>Malcolme</hi> the ſecond put to death by his Subjects.</item>
+                  <item>King <hi>Grimus</hi> ſlain.</item>
+                  <item>King <hi>Conſtantine</hi> the fourth ſlain.</item>
+                  <item>King <hi>Keneth</hi> the third murdered by a Scotch woman.</item>
+                  <item>King <hi>Culenus</hi> murdered.</item>
+                  <item>King <hi>Duffus</hi> murdered in the County of <hi>Murray.</hi>
+                  </item>
+                  <item>King <hi>Indulphus</hi> ſlain.</item>
+                  <item>King <hi>Malcolme</hi> the firſt murdered by his own ſervants.</item>
+                  <item>King <hi>Conſtantine</hi> the third depoſed.</item>
+                  <item>King <hi>Conſtantine</hi> the ſecond ſlain.</item>
+                  <item>King <hi>Donald</hi> the fifth killed himſelfe.</item>
+                  <item>King <hi>Alpinus</hi> beheaded.</item>
+                  <item>King <hi>Dougallus</hi> drowned in the river <hi>Spey.</hi>
+                  </item>
+                  <item>King <hi>Fergus</hi> the third poyſoned by his wife.</item>
+                  <item>King <hi>Eugenius</hi> the eighth murdered.</item>
+                  <item>King <hi>Ambirkeletus</hi> murdered.</item>
+                  <item>King <hi>Eugenius</hi> the fifth ſlain.</item>
+                  <item>King <hi>Maldxin</hi> ſtrangled by his wife.</item>
+                  <item>King <hi>Ferquerd</hi> killed by a Woolfe.</item>
+                  <item>King <hi>Donald</hi> the fourth drowned in the River <hi>Tay.</hi>
+                  </item>
+                  <item>King <hi>Ferquard</hi> killed himſelfe in priſon.</item>
+                  <item>King <hi>Conſtantine</hi> the firſt murdered.</item>
+                  <item>King <hi>Edgenius</hi> the firſt ſlain.</item>
+                  <item>King <hi>Fethalmashus</hi> murdered by an Harper.</item>
+                  <item>King <hi>Auguſtinus</hi> ſlain.</item>
+                  <item>King <hi>Romachus</hi> beheaded.</item>
+                  <item>King <hi>Donald</hi> the third murdered.</item>
+                  <item>King <hi>Donald</hi> the ſecond ſlain.</item>
+                  <item>King <hi>Findocus</hi> murdered as he was hunting</item>
+                  <item>King <hi>Nathalocus</hi> murdered and caſt into a Privy.</item>
+                  <item>King <hi>Athrico</hi> killed himſelfe.</item>
+                  <item>King <hi>Euthodius</hi> murdered by his ſervants.</item>
+                  <item>King <hi>Satrael</hi> murdered.</item>
+                  <item>King <hi>Ethodius</hi> murdered by an <hi>Iriſh</hi> Harper</item>
+                  <item>King <hi>Conarus</hi> died in priſon.</item>
+                  <item>King <hi>Mogallus</hi> murdered.</item>
+                  <item>King <hi>Lugthacus</hi> murdered.</item>
+                  <item>King <hi>Dahdanas</hi> beheaded by his Subjects.</item>
+                  <item>King <hi>Evenus</hi> died in Priſon.</item>
+                  <item>King <hi>Gillus</hi> murdered.</item>
+                  <item>King <hi>Durſtus</hi> ſlain.</item>
+                  <item>King <hi>Thereus</hi> baniſhed by his Subjects.</item>
+                  <item>King <hi>Routha</hi> depoſed.</item>
+                  <item>King <hi>Nothalus</hi> murdered.</item>
+                  <item>King <hi>Ferethatius</hi> murdered.</item>
+                  <item>King <hi>Fergus</hi> the firſt drowned at <hi>Carickefergus</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+                  </item>
+               </list>
+               <p>Beſides what have befallen others, not mentioned in
+hiſtories, and this <hi>Charles Stuart</hi> is but the 110 King
+that ever was of <hi>Scotland,</hi> who is Proclaimed Traytor,
+and Fugitive in <hi>England.</hi> His Uncle was poiſoned, and
+his mother and brother both fled, and proclaimed Tray<g ref="char:EOLhyphen"/>tors
+to <hi>England.</hi>
+               </p>
+            </div>
+            <div type="list">
+               <head>A Liſt of the Earles, Lords,
+Knights, Generall Officers,
+and Colonells of the Scots
+KINGS party, ſlaine and
+taken Priſoners.</head>
+               <list>
+                  <head>Lords taken Priſo<g ref="char:EOLhyphen"/>ners.</head>
+                  <item>EArle Cleaveland</item>
+                  <item>Earl Rothes.</item>
+                  <item>Earl Lautherdale.</item>
+                  <item>Earle Kenmore</item>
+                  <item>Earle Leven</item>
+                  <item>Earle Kelly</item>
+                  <item>Earle Corneway</item>
+                  <item>Earle Shrewsbury.</item>
+                  <item>Earle Marſhall</item>
+                  <item>Earl Craford</item>
+                  <item>Earl Cornworth.</item>
+                  <item>Lord Leith</item>
+                  <item>Lord Ogleby</item>
+                  <item>Lord Burginie</item>
+                  <item>Lord Humbee</item>
+                  <item>Lord Lee.</item>
+                  <item>Lord Grandiſon</item>
+                  <item>Lord Montgomery</item>
+                  <item>Lord Molineux</item>
+                  <item>Lord Peaſly</item>
+                  <item>Lord Cranſton</item>
+                  <item>Lord Sinclare.</item>
+                  <item>Lord Spany.</item>
+                  <item>Lord Kilmore</item>
+                  <item>Lord Talbot.</item>
+                  <item>Lord Hugh Montgomery,</item>
+               </list>
+               <list>
+                  <head>Lords ſlaine and dead
+of their wounds</head>
+                  <item>Duke Hamilton</item>
+                  <item>Earle Derby.</item>
+                  <item>Lord Newton.</item>
+                  <item>Lord Eniskillen.</item>
+                  <item>Lord Liberton.</item>
+               </list>
+               <list>
+                  <head>Knights tooke Pri<g ref="char:EOLhyphen"/>ſoners.</head>
+                  <item>Sir Timothy Fetherſton<g ref="char:EOLhyphen"/>hough.</item>
+                  <item>Sir James Lumſden</item>
+                  <item>Sir Wil. Douglas</item>
+                  <item>Sir John Gell.</item>
+                  <item>Sir Tho. Trallop.</item>
+                  <item>Sir James Graham</item>
+                  <item>Sir George Keith.</item>
+                  <item>Sir Wil. Keith.</item>
+                  <item>Sir Tho. Tompſon.</item>
+                  <item>Sir Tho. Terry</item>
+                  <item>Sir George Melvill</item>
+                  <item>Sir John Dalzell.</item>
+                  <item>Sir James Fowle.</item>
+                  <item>Sir James Lockier</item>
+                  <item>Sir John Packington</item>
+                  <item>Sir John Douglas</item>
+                  <item>Sir Tho. Urquart</item>
+                  <item>Sir John Tompſon</item>
+                  <item>Sir James Graham <hi>junior.</hi>
+                  </item>
+                  <item>Sir Alexander Forbs</item>
+                  <item>Sir Thomas Simkins</item>
+                  <item>Sir Wil. Hart.</item>
+                  <item>Sir John Brown.</item>
+                  <item>Sir David Oglesby.</item>
+                  <item>Sir Phillip Euſtruther.</item>
+               </list>
+               <list>
+                  <head>Knights ſlaine and put
+to death.</head>
+                  <item>Sir Robert Lumſdale.</item>
+                  <item>Sir Henry Hide.</item>
+               </list>
+               <list>
+                  <head>Generall Officers taken
+Priſoners.</head>
+                  <item>Lieutenant General Leſhly</item>
+                  <item>Lieut. General Middeleton</item>
+                  <item>Lieu. General James Weymes</item>
+                  <item>Major Generall Maſſey</item>
+                  <item>Major General Graves</item>
+                  <item>Major Generall Piſcoty</item>
+                  <item>Major General James White</item>
+                  <item>Major General Deel</item>
+                  <item>Major Gen. Montgomery</item>
+                  <item>Adjutant Gen: James Bick<g ref="char:EOLhyphen"/>erton</item>
+                  <item>Adjutant Gen: Waddel</item>
+                  <item>Adjut: Gen: James Doukin</item>
+                  <item>Adjut. Generall Chriſtopher
+Wormeſly.</item>
+                  <item>Engineer General Foſſet</item>
+                  <item>Commiſſary Gen. Moor</item>
+                  <item>Marſhall Gen: White</item>
+                  <item>Quarterm. Gen. Oliphant.</item>
+                  <item>Waggon-maſter Gen: Alex:</item>
+                  <item>Hariot</item>
+               </list>
+               <list>
+                  <head>Generall Officers ſlain.</head>
+                  <item>Major Gen: Hen. Roe Oneal</item>
+                  <item>Maj: Gen. Shane O Cane.</item>
+               </list>
+               <list>
+                  <head>Colonells taken Priſo<g ref="char:EOLhyphen"/>ners.</head>
+                  <item>Colonel Lumſden</item>
+                  <item>Col Hamilton</item>
+                  <item>Col: VVallip</item>
+                  <item>Col. Gourdoun</item>
+                  <item>Col. Ker</item>
+                  <item>Col. Alexander mac Donell.</item>
+                  <item>Col. Coney</item>
+                  <item>Col. Thoral.</item>
+                  <item>Col. Booth</item>
+                  <item>Col. Aſhurſt</item>
+                  <item>Col. Egerton</item>
+                  <item>Col. Holland</item>
+                  <item>Col. Bradſhaw</item>
+                  <item>Col. Blake</item>
+                  <item>Col. Mateland</item>
+                  <item>Col. Straughan</item>
+                  <item>Col. Barthlick</item>
+                  <item>Col. Sinkler</item>
+                  <item>Col. Rowſe</item>
+                  <item>Col. Stuart</item>
+                  <item>Col. Hume</item>
+                  <item>Col. Drummond</item>
+                  <item>Col. John Caſhallum</item>
+                  <item>Col. Bullet</item>
+                  <item>Col. James Guardian</item>
+                  <item>Col. Wil. Cunningham.</item>
+                  <item>Col. Kilhead</item>
+                  <item>Col. Andrew Milves</item>
+                  <item>Col. Wil. Hurry</item>
+                  <item>Col. Wil. Keith.</item>
+                  <item>Col. Benbow</item>
+                  <item>Col. Spine.</item>
+                  <item>Col. Lodowick Drummond</item>
+                  <item>Col Boza.</item>
+                  <item>Col. Turner</item>
+                  <item>Col. Fleskin</item>
+                  <item>Col. John Butler.</item>
+                  <item>Col. John Hume</item>
+                  <item>Col. George Keeth.</item>
+                  <item>Col. James Turner</item>
+                  <item>Col. Lowther</item>
+                  <item>Col. Marlo</item>
+                  <item>Col. Bewcanon.</item>
+               </list>
+               <list>
+                  <head>Colonells ſlaine.</head>
+                  <item>Col: Rice mac Colleketagh</item>
+                  <item>Col Phil: mac Tool O Neale</item>
+                  <item>Col. Hugh Maguyre</item>
+                  <item>Col: Oneal</item>
+                  <item>Col: Hugh mac Mughan</item>
+                  <item>Col: Straughan</item>
+                  <item>Col: Hamilton</item>
+                  <item>Col: Florence Fitz Patrick</item>
+               </list>
+               <list>
+                  <head>Biſhops, Magiſtrates, and
+eminent Clergy-men, Phi<g ref="char:EOLhyphen"/>ſitians,
+&amp;c taken pri<g ref="char:EOLhyphen"/>ſoners.</head>
+                  <item>Biſhop of Clogher</item>
+                  <item>Mr. Fanſhaw Secretary</item>
+                  <item>Mr. Jackſon Chamber-man.</item>
+                  <item>Mr. Freeman Chamber-man</item>
+                  <item>Mr. Bray Chamber-man.</item>
+                  <item>Thomas Liſtour Mayor of <hi>Wor<g ref="char:EOLhyphen"/>ceſter.</hi>
+                  </item>
+                  <item>Mr. James Bridges Sheriffe</item>
+                  <item>Dr. Rob. Burnet</item>
+                  <item>Dr. Cuningham</item>
+                  <item>Dr. Chute</item>
+                  <item>Dr. Davis</item>
+                  <item>Dr. Darl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</item>
+                  <item>Dr. Forreſt</item>
+                  <item>Dr. Kendday</item>
+                  <item>Dr. Roſſe.</item>
+                  <item>M. Rob. Douglas Kirk-man</item>
+                  <item>Mr. James Hambleton Kirk-man</item>
+                  <item>M. Mungo Law Kirk-man</item>
+                  <item>M. George Puliſton Kirk-man</item>
+                  <item>M. George Rutters Kirk-man</item>
+                  <item>M. John Sharpe Kirk-man</item>
+                  <item>M. Hugh Ramſey Kirk-man</item>
+                  <item>M. Andrew Ker Kirkman.</item>
+                  <item>M. Rob. Mercer Kirk man</item>
+                  <item>M. Iames Merk Kirk-man.</item>
+                  <item>M. Andrew Merk Kirk-man</item>
+                  <item>M. Iohn Carter Kirk-man</item>
+                  <item>M. Rob. Bl<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gboy Kirk-man</item>
+                  <item>M. David Liddal Kirk-man</item>
+                  <item>M. Wil. Cloyd Kirk man</item>
+                  <item>M. Iohn Waller Kirk-man</item>
+                  <item>M. David Leech Kirk-man.</item>
+               </list>
+               <list>
+                  <head>Slain and put to death</head>
+                  <item>Biſhop of Downe</item>
+                  <item>Nicholas Love Miniſter</item>
+                  <item>Dr. Lewen</item>
+                  <item>Euſebius Andrewes Conſil. &amp;c.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON
+Printed by <hi>Robert Ib<g ref="char:EOLhyphen"/>bitſon,</hi>
+1652.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
